@@ -1,4 +1,4 @@
-# Basic Webiste with 3 Pages
+# Basic Website with 3 Pages
 
 - Removed archaic HTML elements and replaced with HTML5 semantics
 - Added working href to 3 menu tabs in nav bar
