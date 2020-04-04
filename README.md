@@ -1,9 +1,9 @@
 # Basic Webiste with 3 Pages
 
 - Removed archaic HTML elements and replaced with HTML5 semantics
-- Added working href to 3 menu tabs in nav bar.
-- Created pages for each of the 3 menu tabs in nav bar.
-- Created a href for the header, so that user can come back to index page.
+- Added working href to 3 menu tabs in nav bar
+- Created pages for each of the 3 menu tabs in nav bar
+- Created a href for the header, so that user can come back to index page
 - Added alt values to optimize search engines
 
 ## User Story
